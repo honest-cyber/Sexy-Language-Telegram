@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string name="AppName">Honest_cyber</string>
+	<string name="AppName">Telegram</string>
 	<string name="LanguageName">کیری ساخت شریف</string>
 	<string name="LanguageNameInEnglish">kiri</string>
 	<string name="LanguageCode">fa_IR</string>
